@@ -1,0 +1,97 @@
+
+1. Add
+2. Remove
+3. Bite
+4. Update Prices
+5. Exit
+
+1
+
+what fruit do you want to add?
+
+1. Apple
+2. Banana
+3. Pear
+4. Orange
+
+1
+
+
+banana added!
+
+
+1. Add
+2. Remove
+3. Bite
+4. Update Prices
+5. Exit
+
+3
+
+of which fruit?
+
+
+1. Apple
+2. Banana
+3. Pear
+4. Orange
+
+2
+
+Sorry, you can't bite a banana without peeling it... and you can't peel it.
+
+1. Add
+2. Remove
+3. Bite
+4. Update Prices
+5. Exit
+
+1
+
+what fruit do you want to add?
+
+
+1. Apple
+2. Banana
+3. Pear
+4. Orange
+
+1
+
+apple added!
+
+
+1. Add
+2. Remove
+3. Bite
+4. Update Prices
+5. Exit
+
+3
+
+of which fruit?
+
+1. Apple
+2. Banana
+3. Pear
+4. Orange
+
+1
+
+Congratulations!! you took a bite of the apple!
+
+
+
+1. Add
+2. Remove
+3. Bite
+4. Update Prices
+5. Exit
+
+2
+
+which index?
+
+1
+
+banana removed!
